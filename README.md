@@ -5,7 +5,7 @@ Calculating the amount of interest people have towards each other in social medi
 ## hw2:
 Computing the result of a mathematical expression using trees and out put the value, prefix, infix and postfix representation of it.
 ## hw3:
-Compressing files using sliding widow algorithm and LZ77.
+Compressing files using sliding window algorithm and LZ77.
 
 
 
